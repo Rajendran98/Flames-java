@@ -49,7 +49,7 @@ public class Main
         case 5:
             System.out.println("Enemity");
             break;
-        case 6:
+        case 0:
             System.out.println("Siblings");
             break;
         default:
